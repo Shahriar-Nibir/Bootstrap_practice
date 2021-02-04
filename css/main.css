@@ -1,0 +1,29 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.height {
+  min-height: 100vh;
+}
+.underline {
+  width: 200px;
+  height: 5px;
+  margin: 0 auto;
+}
+.height-about {
+  min-height: 80vh;
+}
+.about-bg {
+  background-color: darkmagenta;
+}
+.about-image {
+  background-image: url("../img/pexels-photo-1779487.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.circle1 {
+  width: 500px;
+  height: 350px;
+}
